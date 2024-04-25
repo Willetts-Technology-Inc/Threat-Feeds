@@ -1,7 +1,7 @@
 *.mapnwea.org
 fonts.googleapis.com
 gstatic.com
-https://sso.mapnwea.org
-https://teach.mapnwea.org
-https://start.mapnwea.org  
+sso.mapnwea.org
+teach.mapnwea.org
+start.mapnwea.org  
 newrelic.com
