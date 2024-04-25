@@ -1,0 +1,5 @@
+*.testnav.com
+*.pearsontestcontent.com
+*.thawte.com
+*.usertrust.com
+*.comdoca.com
