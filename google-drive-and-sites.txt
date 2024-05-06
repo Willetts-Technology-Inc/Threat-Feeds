@@ -21,9 +21,9 @@ apis.google.com:443
 *.googleusercontent.com:443
 *.gstatic.com:443
 *.gvt1.com:443
-lh[0–9].google.com:443
-[0–9].client-channel.google.com:443
-clients[0–9].google.com:443
+lh*.google.com:443
+*.client-channel.google.com:443
+clients*.google.com:443
 inputtools.google.com:443
 sites.google.com:443
 sites.google.com:80
@@ -31,4 +31,4 @@ sites.google.com:443
 *.sites.google.com:443
 *.googlegroups.com:443
 ipv4.google.com:443
-ipv4.google.com:80/HTTP
+ipv4.google.com:80
