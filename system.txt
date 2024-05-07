@@ -1,6 +1,6 @@
-willetts.com
-myvivantbh.com
-vivantbh.com
+*.willetts.com
+*.myvivantbh.com
+*.vivantbh.com
 n-able.com
 webroot.com
 webrootcloudav.com
@@ -14,5 +14,5 @@ connectivitycheck.android.com
 captive.apple.com
 office365.com
 office.com
-pupsehr.com
+*.pupsehr.com
 buffalo.jp
