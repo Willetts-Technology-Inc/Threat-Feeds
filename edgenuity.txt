@@ -6,7 +6,7 @@
 bam.nr-data.net
 *.bam.nr-data.net
 *.jsdelivr.net
-desmos.com/calculator
+*.desmos.com/calculator
 *.boltdns.net
 *.k12hsn.org
 education2020.us
