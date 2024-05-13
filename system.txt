@@ -15,4 +15,5 @@ captive.apple.com
 office365.com
 office.com
 *.pupsehr.com
+*.pupsportal.com
 buffalo.jp
