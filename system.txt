@@ -19,3 +19,4 @@ office.com
 buffalo.jp
 *.struxurewarecloud.com
 northlandsys.sharefile.com
+storage-cf-us.sharefile.com
