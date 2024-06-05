@@ -18,3 +18,4 @@ office.com
 *.pupsportal.com
 buffalo.jp
 *.struxurewarecloud.com
+northlandsys.sharefile.com
