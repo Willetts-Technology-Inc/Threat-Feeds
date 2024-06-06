@@ -26,8 +26,6 @@ lh[0–9].google.com
 clients[0–9].google.com
 inputtools.google.com
 sites.google.com
-sites.google.com
-sites.google.com
 *.sites.google.com
 *.googlegroups.com
 ipv4.google.com
