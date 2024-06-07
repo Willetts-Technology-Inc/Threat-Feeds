@@ -1,0 +1,16 @@
+*.pearson.com
+*.pearsonvue.com
+*.proctorcam.com
+*.programworkshop.com
+*.programworkshop2.com
+*.starttest.com
+*.starttest2.com
+*.startpractice.com
+*.gettesting.com
+*.verifyreadiness.com
+*.twilio.com
+*.pvue2.com
+*.ably.io
+*.ably-realtime.com
+*.wowza.com
+*.onvue.com
