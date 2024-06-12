@@ -22,3 +22,4 @@ northlandsys.sharefile.com
 storage-cf-us.sharefile.com
 *.myged.com
 *.ged.com
+efax.faxmadesimple.com
