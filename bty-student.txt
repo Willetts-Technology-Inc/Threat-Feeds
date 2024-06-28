@@ -1,1 +1,2 @@
-
+*.myged.com
+*.ged.com
