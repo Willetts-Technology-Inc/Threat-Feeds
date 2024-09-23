@@ -1,2 +1,2 @@
 sequelyouthservices-my.sharepoint.com
-applejacksranch.org
+*.applejacksranch.org
