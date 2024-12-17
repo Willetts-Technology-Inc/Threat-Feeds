@@ -1,1 +1,7 @@
-
+*.psiexams.com
+sb-ssl.google.com
+prod-rpaas-exam-pdiddy-content.s3.us-west-2.amazonaws.com
+aat.psionline.com
+e8asamb9w4.execute-api.eu-west-2.amazonaws.com
+s3.eu-west-2.amazonaws.com
+jmsnirvanaresults.goamp.com:5001
