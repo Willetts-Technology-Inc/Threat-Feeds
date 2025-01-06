@@ -1,3 +1,4 @@
 *.myged.com
 *.ged.com
 *.thefreedictionary.com
+desmos.com
