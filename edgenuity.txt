@@ -9,10 +9,10 @@ google.com/uds
 help.imagineedgenuity.com/hc/en-us
 *.boltdns.net
 *.onetonline.org
-house-fastly-signed-us-east-1prod.brightcovecdn.com/
+house-fastly-signed-us-east-1-prod.brightcovecdn.com
 *.brightcove.com
 *.pendo.io
-itemengine-item.itemengine-prod.ilapps.com
+itemengine-item.itemengine-prod.il-apps.com
 *.brightcove.net
 *.pglms.com
 labs.edynamiclearning.com
@@ -29,7 +29,8 @@ office.microsoft.com
 *.zdassets.com
 static.ada.support
 *.explorelearning.com
-*.zencdn.net unpkg.com
+*.zencdn.net
+unpkg.com
 *.fueleducation.com
 *.zendesk.com
 phet.colorado.edu
@@ -39,13 +40,10 @@ caronefitness.com
 *.gstatic.com
 desmos.com/calculator
 *.imagineedgenuity.com
-edge-prod.doolittleprod.wna.cloud
+edge-prod.doolittle-prod.wna.cloud
 *.il-apps.com
 education2020.us
 *.imaginelearning.com
 el-gizmos.s3.amazonaws.com
 *.jsdelivr.net
 emissary.edgenuity.com
-*.imagineedgenuity.com
-*.zencdn.net
-phet.colorado.edu
