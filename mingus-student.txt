@@ -1,5 +1,4 @@
 desmos.com
 surveymonkey.com
 cloudflare.com
-brightthinker.azureedge.net
-online.flipbuilder.com
+
