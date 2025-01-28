@@ -25,6 +25,7 @@ khanacademy.org
 *.llnw.net
 *.llnwd.net
 mayoclinic.org
+online.flipbuilder.com
 skillsusa.org
 skillsusa.org
 texascareercheck.com
