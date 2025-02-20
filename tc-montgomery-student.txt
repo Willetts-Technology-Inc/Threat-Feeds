@@ -1,3 +1,4 @@
 dns.google
+clients2.google.com
 android.clients.google.com
 collegeboard.org
