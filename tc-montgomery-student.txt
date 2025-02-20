@@ -13,3 +13,4 @@ cdnapisec.kaltura.com
 *.apptegy.net
 *.jsdelivr.net
 *.learnplatform.com
+*.clever.com
