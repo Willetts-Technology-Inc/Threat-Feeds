@@ -10,3 +10,5 @@ cdnapisec.kaltura.com
 *.gvt2.com
 *.gvt3.com
 *.collegeboard.org
+*.apptegy.net
+*.jsdelivr.net
