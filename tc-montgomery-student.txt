@@ -17,3 +17,4 @@ cdnapisec.kaltura.com
 *.dedicatedsentry.com
 *.paddle.com
 *.matetranslate.com
+*.knowbe4.com
