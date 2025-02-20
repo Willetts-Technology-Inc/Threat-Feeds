@@ -1,1 +1,9 @@
 *.google.com
+mps.k12.al.us
+schoology.com
+accessdl.state.al.us
+accesscms.asc.edu
+mediasite.com
+mediasite.css.us-net.us.edu
+flvsgl.com
+cdnapisec.kaltura.com
