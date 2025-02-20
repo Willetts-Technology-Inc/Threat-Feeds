@@ -14,3 +14,6 @@ cdnapisec.kaltura.com
 *.jsdelivr.net
 *.learnplatform.com
 *.clever.com
+*.dedicatedsentry.com
+*.paddle.com
+*.matetranslate.com
