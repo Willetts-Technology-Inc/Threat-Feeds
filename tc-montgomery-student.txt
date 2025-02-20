@@ -12,3 +12,4 @@ cdnapisec.kaltura.com
 *.collegeboard.org
 *.apptegy.net
 *.jsdelivr.net
+*.learnplatform.com
