@@ -19,4 +19,7 @@ cdnapisec.kaltura.com
 *.matetranslate.com
 *.knowbe4.com
 *.powerschool.com
+*.bls.gov
+*.verywellmind.com
+*.apa.org
 ggbm.aat
