@@ -33,4 +33,6 @@ go.screenpal.com
 *.geogebra.org
 *.ushistory.org
 storyboardthat.com
-
+*.learnosity.com
+s3.amazonaws.com/assets.learnosity.com
+s3.amazonaws.com/learnositymediaprocessed
