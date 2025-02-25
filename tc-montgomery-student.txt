@@ -22,7 +22,7 @@ cdnapisec.kaltura.com
 *.bls.gov
 *.verywellmind.com
 *.apa.org
-ggbm.aat
+ggbm.at
 go.screenpal.com
 *.dhmo.org
 *.gov
@@ -32,3 +32,5 @@ go.screenpal.com
 *.desmos.com
 *.geogebra.org
 *.ushistory.org
+storyboardthat.com
+
