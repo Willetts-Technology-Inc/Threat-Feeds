@@ -23,3 +23,11 @@ cdnapisec.kaltura.com
 *.verywellmind.com
 *.apa.org
 ggbm.aat
+go.screenpal.com
+*.dhmo.org
+webarchive.loc.gov
+*.zapatopi.net
+*.alapark.com
+*.akc.org
+*.desmos.com
+*.geogebra.org
