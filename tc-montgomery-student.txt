@@ -25,7 +25,7 @@ cdnapisec.kaltura.com
 ggbm.aat
 go.screenpal.com
 *.dhmo.org
-webarchive.loc.gov
+*.gov
 *.zapatopi.net
 *.alapark.com
 *.akc.org
