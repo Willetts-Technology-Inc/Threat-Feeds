@@ -31,3 +31,4 @@ webarchive.loc.gov
 *.akc.org
 *.desmos.com
 *.geogebra.org
+*.ushistory.org
