@@ -38,3 +38,4 @@ s3.amazonaws.com/assets.learnosity.com
 s3.amazonaws.com/learnositymediaprocessed
 dictionary.com
 thesaurus.com
+poetryfoundation.org
