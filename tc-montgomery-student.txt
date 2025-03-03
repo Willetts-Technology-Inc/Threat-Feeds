@@ -39,3 +39,8 @@ s3.amazonaws.com/learnositymediaprocessed
 dictionary.com
 thesaurus.com
 poetryfoundation.org
+bls.gov
+careeronestop.org
+madeinalabma.com
+*.alabama.gov
+edpa.org
