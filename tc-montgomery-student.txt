@@ -41,6 +41,6 @@ thesaurus.com
 poetryfoundation.org
 bls.gov
 careeronestop.org
-madeinalabma.com
+madeinalabama.com
 *.alabama.gov
 edpa.org
