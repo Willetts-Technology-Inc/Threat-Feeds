@@ -65,3 +65,4 @@ universityofalabama.az1.qualtrics.com
 *.ua.edu
 kidshealth.org
 cdc.gov
+dietaryguidelines.gov
