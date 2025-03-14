@@ -1,1 +1,2 @@
-
+*.brighterpathal.com
+*.samsungcloud.com
