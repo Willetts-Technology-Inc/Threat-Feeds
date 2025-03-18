@@ -66,3 +66,7 @@ universityofalabama.az1.qualtrics.com
 kidshealth.org
 cdc.gov
 dietaryguidelines.gov
+mayoclinic.org
+redcross.org
+gutenberg.org
+disneyworld.disney.go.com
