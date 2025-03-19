@@ -2,3 +2,4 @@
 *.ged.com
 *.thefreedictionary.com
 desmos.com
+video.simplepractice.com/appt-ec921740f0c47da35d82f104e1d23cb4
