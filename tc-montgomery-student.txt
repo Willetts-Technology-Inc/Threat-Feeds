@@ -71,3 +71,5 @@ redcross.org
 gutenberg.org
 disneyworld.disney.go.com
 *.wgbh.org
+al.kuder.com
+alabamacareerplanningsystem.com
