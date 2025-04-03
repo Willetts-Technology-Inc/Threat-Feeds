@@ -76,3 +76,6 @@ alabamacareerplanningsystem.com
 jobcorps.gov
 *.login.gov
 *.joinjobcorps.com
+*.amnh.org
+*.osu.edu
+famous-trials.com
