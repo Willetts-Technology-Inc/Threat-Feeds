@@ -80,3 +80,4 @@ jobcorps.gov
 *.osu.edu
 famous-trials.com
 kapwing.com
+take-a-screenshot.org
