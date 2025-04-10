@@ -82,3 +82,5 @@ famous-trials.com
 kapwing.com
 take-a-screenshot.org
 canva.com
+jfklibrary.org
+*.dodea.edu
