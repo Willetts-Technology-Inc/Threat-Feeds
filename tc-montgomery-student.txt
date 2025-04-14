@@ -39,10 +39,9 @@ s3.amazonaws.com/learnositymediaprocessed
 dictionary.com
 thesaurus.com
 poetryfoundation.org
-bls.gov
 careeronestop.org
 madeinalabama.com
-*.alabama.gov
+*.gov
 edpa.org
 calculatorsoup.com
 librarycompany.org
@@ -64,8 +63,6 @@ alabamaachieves.org
 universityofalabama.az1.qualtrics.com
 *.ua.edu
 kidshealth.org
-cdc.gov
-dietaryguidelines.gov
 mayoclinic.org
 redcross.org
 gutenberg.org
@@ -73,7 +70,6 @@ disneyworld.disney.go.com
 *.wgbh.org
 al.kuder.com
 alabamacareerplanningsystem.com
-jobcorps.gov
 *.login.gov
 *.joinjobcorps.com
 *.amnh.org
