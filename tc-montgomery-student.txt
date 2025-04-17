@@ -80,3 +80,4 @@ take-a-screenshot.org
 canva.com
 jfklibrary.org
 *.dodea.edu
+das.nh.gov
