@@ -12,3 +12,5 @@ cdn.cambiumtds.com
 cdn2.cambiumtds.com
 static.cambiumtds.com
 resources.cambiumtds.com
+media.edgenuity.com/contentengine/tools/Calculators/graphing-calculator.html
+media.edgenuity.com/contentengine/tools/Calculators/regression-calculator.html
