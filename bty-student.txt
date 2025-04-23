@@ -3,3 +3,7 @@
 *.thefreedictionary.com
 desmos.com
 video.simplepractice.com
+sd.portal.cambiumast.com
+sso1.cambiumast.com/auth/realms/southdakota/account
+sd.tide.cambiumast.com
+sd.reporting.cambiumast.com
