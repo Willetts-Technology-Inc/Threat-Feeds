@@ -7,3 +7,10 @@ sd.portal.cambiumast.com
 sso1.cambiumast.com/auth/realms/southdakota/account
 sd.tide.cambiumast.com
 sd.reporting.cambiumast.com
+cambiumtds.com
+tds.cambiumtds.com
+cambiumast.com
+cdn.cambiumtds.com
+cdn2.cambiumtds.com
+static.cambiumtds.com
+resources.cambiumtds.com
