@@ -14,5 +14,3 @@ static.cambiumtds.com
 resources.cambiumtds.com
 media.edgenuity.com/contentengine/tools/Calculators/graphing-calculator.html
 media.edgenuity.com/contentengine/tools/Calculators/regression-calculator.html
-desmos.com/api/v1.7/calculator.js?apiKey=c21e8864dc1b41bda5995a46b9c78bfa
-desmos.com/api/v1.8.1/calculator.js?apiKey=0fdd86ae4e4d481fa1c0ef6ea73e8061
