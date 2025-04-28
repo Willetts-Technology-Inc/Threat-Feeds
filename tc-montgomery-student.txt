@@ -85,3 +85,4 @@ outdooralabama.com
 grammarly.com
 *.utah.edu
 *.usda.gov
+census.gov
