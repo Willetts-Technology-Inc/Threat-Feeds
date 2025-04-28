@@ -82,3 +82,6 @@ jfklibrary.org
 *.dodea.edu
 das.nh.gov
 outdooralabama.com
+grammarly.com
+*.utah.edu
+*.usda.gov
