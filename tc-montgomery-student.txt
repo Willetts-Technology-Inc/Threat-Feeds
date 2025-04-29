@@ -1,5 +1,5 @@
 *.google.com
-mps.k12.al.us
+*.mps.k12.al.us
 *.schoology.com
 *.state.al.us
 accesscms.asc.edu
@@ -55,7 +55,7 @@ education.nationalgeorgraphic.org
 engageal.com
 mynextmove.org
 alison.com
-bible.com
+*.bible.com
 quran.com
 chabad.org
 alabamaachieves.org
