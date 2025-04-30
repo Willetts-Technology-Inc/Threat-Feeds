@@ -87,3 +87,4 @@ grammarly.com
 *.usda.gov
 census.gov
 npr.org
+www.worldometers.info
