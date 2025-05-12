@@ -90,3 +90,4 @@ npr.org
 www.worldometers.info
 www.graduateprogram.org
 timeline.911memorial.org
+*.gale.com
