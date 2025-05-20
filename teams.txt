@@ -1,3 +1,7 @@
+*.cloud.microsoft
+*.static.microsoft
+*.usercontent.microsoft
+
 *.lync.com
 *.teams.cloud.microsoft
 *.teams.microsoft.com
