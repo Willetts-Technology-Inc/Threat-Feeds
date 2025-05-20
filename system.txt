@@ -20,3 +20,4 @@ buffalo.jp
 *.struxurewarecloud.com
 efax.faxmadesimple.com
 ithelpdeskhelpers.com
+*.windowsupdate.com
