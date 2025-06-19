@@ -1,3 +1,4 @@
 *.brighterpathal.com
 *.samsungcloud.com
 *.mps.k12.al.us
+*.google.com
