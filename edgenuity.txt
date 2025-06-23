@@ -38,7 +38,7 @@ phet.colorado.edu
 bam.nr-data.net
 caronefitness.com
 *.gstatic.com
-desmos.com/calculator
+*.desmos.com/calculator
 *.imagineedgenuity.com
 edge-prod.doolittle-prod.wna.cloud
 *.il-apps.com
