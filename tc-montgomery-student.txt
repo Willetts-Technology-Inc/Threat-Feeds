@@ -101,4 +101,6 @@ timeline.911memorial.org
 *.osha.gov
 *.aces.edu
 *.auburn.edu
-
+*.purdue.edu
+*.collgeofsanmateo.edu
+*.unc.edu
