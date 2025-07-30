@@ -1,5 +1,4 @@
 *.willetts.com
-*.myvivantbh.com
 *.vivantbh.com
 n-able.com
 webroot.com
