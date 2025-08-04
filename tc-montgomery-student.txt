@@ -104,3 +104,6 @@ timeline.911memorial.org
 *.purdue.edu
 *.collgeofsanmateo.edu
 *.unc.edu
+*.100people.org
+*.languageconnectsfoundation.org
+*.entrepreneur.com
