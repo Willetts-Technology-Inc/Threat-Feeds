@@ -104,4 +104,3 @@ timeline.911memorial.org
 *.purdue.edu
 *.collgeofsanmateo.edu
 *.unc.edu
-*.cnn.com
