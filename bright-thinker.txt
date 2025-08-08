@@ -31,7 +31,7 @@ skillsusa.org
 skillsusa.org
 texascareercheck.com
 texasrealitycheck.com
-thebrightthinker.com
+*.thebrightthinker.com
 tsaweb.org
 vimeo.com
 virtually-anywhere.net
