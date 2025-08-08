@@ -8,7 +8,7 @@ bls.gov
 bpa.org
 *.brightcove.com
 *.brightcove.net
-brightthinker.com
+*.brightthinker.com
 brightthinker.azureedge.net
 *.byu.edu
 byu.hosted.panopto.com
