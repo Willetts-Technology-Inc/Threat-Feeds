@@ -37,3 +37,4 @@ vimeo.com
 virtually-anywhere.net
 vjs.zencdn.net
 w3.org
+msftconnecttest.com
