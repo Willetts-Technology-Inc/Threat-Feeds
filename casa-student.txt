@@ -1,2 +1,2 @@
 cloudflare.com
-mmytc.thebrightthinker.com
+msftconnecttest.com
