@@ -16,3 +16,4 @@ media.edgenuity.com/contentengine/tools/Calculators/graphing-calculator.html
 media.edgenuity.com/contentengine/tools/Calculators/regression-calculator.html
 desmos.com
 autotest.iowadot.gov
+*speech.microsoft.com
