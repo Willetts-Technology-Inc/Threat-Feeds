@@ -109,3 +109,4 @@ timeline.911memorial.org
 *.entrepreneur.com
 *.commonlit.org
 *.tv411.org
+*.colorado.edu
