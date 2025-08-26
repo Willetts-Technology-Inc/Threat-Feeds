@@ -1,4 +1,3 @@
 sequelyouthservices-my.sharepoint.com
 *.applejacksranch.org
-efax.faxmadesimple.com
 *.textnow.com
