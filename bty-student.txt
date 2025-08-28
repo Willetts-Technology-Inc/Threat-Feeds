@@ -14,3 +14,4 @@ cdn2.cambiumtds.com
 static.cambiumtds.com
 resources.cambiumtds.com
 desmos.com/calculator
+mynextmove.org
