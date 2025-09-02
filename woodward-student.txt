@@ -18,3 +18,5 @@ desmos.com
 autotest.iowadot.gov
 *speech.microsoft.com
 login.imaginelearning.com
+*.brightcove.net
+*.brightcove.com
