@@ -127,3 +127,12 @@ assignment-builder.mptools-prod.edgenuityapp.com
 *.teams.cloud.microsoft.com
 *.teams.microsoft.com
 *.lync.com
+*.pr.bcovlive.com 
+*.brightcovegallery.com
+ *.gallery.video 
+bcovlive-a.akamaihd.net
+*.o.brightcove.com
+players.brightcove.net
+hls.ak.o.brightcove.com
+uds.ak.o.brightcove.com
+*.media.brightcove.com
