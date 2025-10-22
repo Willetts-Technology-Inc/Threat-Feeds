@@ -16,3 +16,5 @@ resources.cambiumtds.com
 desmos.com/calculator
 mynextmove.org
 mathway.com
+rio.cdn.chegg.com
+cdn.jsdelivr.net
