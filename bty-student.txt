@@ -18,3 +18,7 @@ mynextmove.org
 mathway.com
 rio.cdn.chegg.com
 cdn.jsdelivr.net
+atc-edge.studybreakmedia.com
+atc.studybreakmedia.com
+cdnjs.cloudflare.com
+js.recurly.com
