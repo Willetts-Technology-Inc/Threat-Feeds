@@ -114,3 +114,4 @@ timeline.911memorial.org
 *.cdc.gov
 *.learner.org
 *.oed.com
+*.lsair.app
