@@ -116,3 +116,8 @@ timeline.911memorial.org
 *.oed.com
 *.lsair.app
 *.bpm.homes
+*.lenovosoftware.com
+*.lsair.app
+*.compute-1.amazonaws.com
+*.typekit.net
+*.unpkg.com
