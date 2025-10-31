@@ -121,3 +121,4 @@ timeline.911memorial.org
 *.compute-1.amazonaws.com
 *.typekit.net
 *.unpkg.com
+*.usf.edu
