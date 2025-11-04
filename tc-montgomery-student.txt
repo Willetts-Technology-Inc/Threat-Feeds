@@ -123,3 +123,4 @@ timeline.911memorial.org
 *.unpkg.com
 *.usf.edu
 *.screencastify.com
+*.rhetorik.ch
