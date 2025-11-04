@@ -122,3 +122,4 @@ timeline.911memorial.org
 *.typekit.net
 *.unpkg.com
 *.usf.edu
+*.screencastify.com
