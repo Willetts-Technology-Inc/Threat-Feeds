@@ -125,3 +125,4 @@ timeline.911memorial.org
 *.screencastify.com
 *.rhetorik.ch
 *.fenixindustrial.co.za
+*.myvideospot.com
