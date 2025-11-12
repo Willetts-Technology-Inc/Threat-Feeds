@@ -126,3 +126,4 @@ timeline.911memorial.org
 *.rhetorik.ch
 *.fenixindustrial.co.za
 *.myvideospot.com
+*.si.edu
