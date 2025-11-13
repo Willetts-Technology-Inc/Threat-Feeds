@@ -127,3 +127,6 @@ timeline.911memorial.org
 *.fenixindustrial.co.za
 *.myvideospot.com
 *.si.edu
+*.pantheonsite.io
+*.swfwmd.state.fl.us
+*.hemingwayapp.com
