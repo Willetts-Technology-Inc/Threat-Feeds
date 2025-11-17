@@ -130,3 +130,5 @@ timeline.911memorial.org
 *.pantheonsite.io
 *.swfwmd.state.fl.us
 *.hemingwayapp.com
+*.authorama.com
+*.presidency.ucsb.edu
