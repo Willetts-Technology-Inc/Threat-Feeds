@@ -132,3 +132,4 @@ timeline.911memorial.org
 *.hemingwayapp.com
 *.authorama.com
 *.presidency.ucsb.edu
+*.forbes.com
