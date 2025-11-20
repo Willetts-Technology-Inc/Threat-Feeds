@@ -136,3 +136,6 @@ timeline.911memorial.org
 *.loc.gov
 *.historyonthenet.com
 *.krita.org
+*.americanenglish.state.gov
+*.calacademy.org
+*.kde.org
