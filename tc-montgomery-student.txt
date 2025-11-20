@@ -133,3 +133,5 @@ timeline.911memorial.org
 *.authorama.com
 *.presidency.ucsb.edu
 *.forbes.com
+*.loc.gov
+*.historyonthenet.com
