@@ -135,3 +135,4 @@ timeline.911memorial.org
 *.forbes.com
 *.loc.gov
 *.historyonthenet.com
+*.krita.org
