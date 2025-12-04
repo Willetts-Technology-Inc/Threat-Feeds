@@ -139,3 +139,4 @@ timeline.911memorial.org
 *.americanenglish.state.gov
 *.calacademy.org
 *.kde.org
+*.encyclopediaofalabama.org
