@@ -140,3 +140,4 @@ timeline.911memorial.org
 *.calacademy.org
 *.kde.org
 *.encyclopediaofalabama.org
+*.commonsense.org
