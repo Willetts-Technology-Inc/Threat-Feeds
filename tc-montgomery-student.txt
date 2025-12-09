@@ -141,3 +141,4 @@ timeline.911memorial.org
 *.kde.org
 *.encyclopediaofalabama.org
 *.commonsense.org
+*.excelsior.edu
