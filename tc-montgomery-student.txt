@@ -142,3 +142,4 @@ timeline.911memorial.org
 *.encyclopediaofalabama.org
 *.commonsense.org
 *.excelsior.edu
+*.symbolab.com
