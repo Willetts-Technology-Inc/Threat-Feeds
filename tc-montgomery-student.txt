@@ -143,3 +143,5 @@ timeline.911memorial.org
 *.commonsense.org
 *.excelsior.edu
 *.symbolab.com
+*.dp.la
+*.poets.org
