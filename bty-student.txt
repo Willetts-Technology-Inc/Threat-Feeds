@@ -22,3 +22,4 @@ atc-edge.studybreakmedia.com
 atc.studybreakmedia.com
 cdnjs.cloudflare.com
 js.recurly.com
+kristen-werpy.vsee.me/u/clinic
