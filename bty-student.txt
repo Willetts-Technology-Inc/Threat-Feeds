@@ -24,3 +24,4 @@ cdnjs.cloudflare.com
 js.recurly.com
 kristen-werpy.vsee.me/u/clinic
 us05web.zoom.us/j/86986525288?pwd=CQD6NcxabEH2rUTE2ZC4vyrUWU2uBh.1
+vsee.me
