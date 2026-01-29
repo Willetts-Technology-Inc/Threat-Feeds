@@ -1,2 +1,4 @@
 *.seniorplus.org
 tessaleelibby.org
+*.bangordailynews.com
+*.mainecoe.org
