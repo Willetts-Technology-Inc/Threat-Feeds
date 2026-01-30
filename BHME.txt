@@ -2,3 +2,4 @@
 tessaleelibby.org
 *.bangordailynews.com
 *.mainecoe.org
+click.bangorpublishingcompany-email.com
