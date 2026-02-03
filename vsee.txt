@@ -1,0 +1,3 @@
+*.vsee.com
+vsee-activeapi.firebaseio.com
+s3.amazonaws.com
