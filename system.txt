@@ -22,3 +22,4 @@ ithelpdeskhelpers.com
 *.windowsupdate.com
 myvivantbh.com
 *.willettstech.com
+vivantcntr.com
