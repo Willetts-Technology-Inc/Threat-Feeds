@@ -22,4 +22,4 @@ atc-edge.studybreakmedia.com
 atc.studybreakmedia.com
 cdnjs.cloudflare.com
 js.recurly.com
-
+therapyportal.com/p/PaulaLain/telehealth
