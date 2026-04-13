@@ -24,3 +24,7 @@ cdnjs.cloudflare.com
 js.recurly.com
 therapyportal.com/p/PaulaLain/telehealth
 healow.com/apps/tv/code
+doxy.me/en/e
+doxy.me/v2/auth/account/login/
+doxy.me/v2/post-login/
+doxy.me/v2/account/dashboard/
