@@ -28,3 +28,4 @@ doxy.me/en/e
 doxy.me/v2/auth/account/login/
 doxy.me/v2/post-login/
 doxy.me/v2/account/dashboard/
+doxy.me
