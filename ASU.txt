@@ -1,2 +1,8 @@
-asu.edu
-instructure.com
+my.asu.edu
+ea.asu.edu
+weblogin.asu.edu
+signin.asu.edu
+welcome.ea.asu.edu
+accelerate.ea.asu.edu
+login.cpe.asu.edu
+asuce.instructure.com
