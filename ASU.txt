@@ -6,3 +6,4 @@ welcome.ea.asu.edu
 accelerate.ea.asu.edu
 login.cpe.asu.edu
 asuce.instructure.com
+duosecurity.com
