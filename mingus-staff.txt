@@ -9,3 +9,4 @@ vimeo.com
 *.vimeocdn.com
 *.player.vimeo.com
 cdn.embedly.com
+fox10phoenix.com
