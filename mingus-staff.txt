@@ -10,3 +10,4 @@ vimeo.com
 *.player.vimeo.com
 cdn.embedly.com
 fox10phoenix.com
+qmportal.azahcccs.gov
