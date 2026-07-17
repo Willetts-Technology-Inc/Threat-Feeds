@@ -8,3 +8,4 @@ login.cpe.asu.edu
 asuce.instructure.com
 duosecurity.com
 ulc.asu.edu
+accelerate.ulc.asu.edu
