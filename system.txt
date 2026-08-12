@@ -20,7 +20,7 @@ buffalo.jp
 efax.faxmadesimple.com
 ithelpdeskhelpers.com
 *.windowsupdate.com
-myvivantbh.com
+*.myvivantbh.com
 *.willettstech.com
 vivantcntr.com
 owncloud.com
