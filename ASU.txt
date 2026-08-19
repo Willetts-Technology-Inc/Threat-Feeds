@@ -27,3 +27,4 @@ nstructure-uploads.s3.amazonaws.com/*
 *.wistia.com/*
 *.wistia.net/*
 embedwistia-a.akamaihd.net/*
+sso.canvaslms.com
