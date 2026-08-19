@@ -29,3 +29,4 @@ nstructure-uploads.s3.amazonaws.com/*
 embedwistia-a.akamaihd.net/*
 sso.canvaslms.com
 learning-asu.simplesyllabus.com
+apastyle.apa.org
