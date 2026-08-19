@@ -28,3 +28,4 @@ nstructure-uploads.s3.amazonaws.com/*
 *.wistia.net/*
 embedwistia-a.akamaihd.net/*
 sso.canvaslms.com
+learning-asu.simplesyllabus.com
