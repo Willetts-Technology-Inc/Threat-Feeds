@@ -30,3 +30,4 @@ embedwistia-a.akamaihd.net/*
 sso.canvaslms.com
 learning-asu.simplesyllabus.com
 apastyle.apa.org
+openstax.org
