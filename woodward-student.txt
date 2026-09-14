@@ -19,3 +19,6 @@ autotest.iowadot.gov
 *speech.microsoft.com
 *.kiteaai.org
 ssl.google-analytics.com
+joinmyquiz.com
+wayground.com
+streamhoster.com
