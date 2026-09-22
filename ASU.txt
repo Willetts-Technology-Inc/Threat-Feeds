@@ -32,3 +32,4 @@ learning-asu.simplesyllabus.com
 apastyle.apa.org
 openstax.org
 shibboleth2.asu.edu
+tutor.digit.asu.edu
