@@ -1,1 +1,2 @@
 halseyfoodservice.pepr.app
+*.brighterpathal.com
