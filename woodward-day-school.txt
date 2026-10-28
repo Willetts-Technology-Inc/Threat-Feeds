@@ -9,4 +9,5 @@ cdn.cambiumtds.com
 cdn2.cambiumtds.com
 static.cambiumtds.com
 resources.cambiumtds.com
-http://joinmyquiz.com/
+joinmyquiz.com
+iowacivicsprep.com
