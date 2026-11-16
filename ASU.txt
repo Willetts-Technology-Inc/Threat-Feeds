@@ -34,4 +34,5 @@ openstax.org
 shibboleth2.asu.edu
 tutor.digit.asu.edu
 asuorchard.asu.edu
-asu-000.customer.2lines.net/api/lti/v13/7f8bfaf372b4ab809daaa8276272c/initiation
+asu-000.customer.42lines.net/api/lti/v13/7f8bfaf372b4a6ab809dbaa8276272c/initiation
+
