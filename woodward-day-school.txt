@@ -1,4 +1,3 @@
-myascendmath.com
 kahoot.it
 kahoot.com
 code.org
@@ -11,3 +10,4 @@ static.cambiumtds.com
 resources.cambiumtds.com
 joinmyquiz.com
 iowacivicsprep.com
+ixl.com
