@@ -10,4 +10,4 @@ static.cambiumtds.com
 resources.cambiumtds.com
 joinmyquiz.com
 iowacivicsprep.com
-*.ixl.com
+ixl.com
